@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sattibabu:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-10-30T04:52:40.91377305Z"
+    description: A Helm chart for Kubernetes
+    digest: 21b77eb87aff4817050891d697c397ef14f002fbc366994f3b95ea241ec15640
+    name: sattibabu
+    type: application
+    urls:
+    - sattibabu-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-10-30T04:52:40.912927377Z"
